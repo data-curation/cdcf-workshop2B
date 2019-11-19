@@ -30,3 +30,4 @@ exclude:
   - LICENSE.txt
   - _site/
   - "*.ai"
+theme: jekyll-theme-minimal
