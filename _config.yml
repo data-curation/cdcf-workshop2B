@@ -1,4 +1,3 @@
-
 # Site settings
 title: Reproducible Research
 subtitle: ""
@@ -30,4 +29,3 @@ exclude:
   - LICENSE.txt
   - _site/
   - "*.ai"
-theme: jekyll-theme-cayman
