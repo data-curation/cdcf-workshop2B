@@ -38,7 +38,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 4. Bonus activity: Play around with another repository:
     - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
       - Article: <http://doi.org/10.17613/M6W950N3>
-      - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
+      - Reproduced Repo (data & code): <https://github.com/data-curation/cdcf-workshop2B/rpt-project>  
         - What are the differences between this project and the last one?
 
 ## <a id="slide"></a>Slide Deck
