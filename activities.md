@@ -7,6 +7,6 @@ permalink: /activities/
 
 [Activity 2: Reproducibility framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit)
 
-[Activity 3: Exploring the repository and the notebook](/activity3)
+[Activity 3: Exploring the repository and the notebook](/cdcf-workshop2B/activity3)
 
-[Activity 4: Experimenting with the code](/activity4)
+[Activity 4: Experimenting with the code](/cdcf-workshop2B/activity4)
